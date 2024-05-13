@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ffbdb3a-b31b-4708-82e7-c93bbac0d2bc" name="Changes" comment="5.12">
-      <change afterPath="$PROJECT_DIR$/L144.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L527.py" afterDir="false" />
+    <list default="true" id="8ffbdb3a-b31b-4708-82e7-c93bbac0d2bc" name="Changes" comment="5.13">
+      <change afterPath="$PROJECT_DIR$/L331.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L527.py" beforeDir="false" afterPath="$PROJECT_DIR$/L572.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,7 +208,7 @@
       <workItem from="1715082661551" duration="6975000" />
       <workItem from="1715502665196" duration="2442000" />
       <workItem from="1715505370107" duration="5979000" />
-      <workItem from="1715594289022" duration="1026000" />
+      <workItem from="1715594289022" duration="4744000" />
     </task>
     <task id="LOCAL-00001" summary="5.7">
       <option name="closed" value="true" />
@@ -250,7 +250,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715512744424</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="5.13">
+      <option name="closed" value="true" />
+      <created>1715595363219</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715595363219</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,7 +267,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="5.7" />
     <MESSAGE value="5.12" />
-    <option name="LAST_COMMIT_MESSAGE" value="5.12" />
+    <MESSAGE value="5.13" />
+    <option name="LAST_COMMIT_MESSAGE" value="5.13" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Leetcode_Python$L28.coverage" NAME="L28 Coverage Results" MODIFIED="1715006650505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
