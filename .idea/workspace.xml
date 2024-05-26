@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ffbdb3a-b31b-4708-82e7-c93bbac0d2bc" name="Changes" comment="5.22">
-      <change afterPath="$PROJECT_DIR$/L1048.py" afterDir="false" />
+    <list default="true" id="8ffbdb3a-b31b-4708-82e7-c93bbac0d2bc" name="Changes" comment="5.23">
+      <change afterPath="$PROJECT_DIR$/L2110.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -34,40 +37,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.L1048.executor": "Run",
-    "Python.L1144.executor": "Run",
-    "Python.L1247.executor": "Run",
-    "Python.L1262.executor": "Run",
-    "Python.L135.executor": "Run",
-    "Python.L139.executor": "Run",
-    "Python.L1402.executor": "Run",
-    "Python.L1775.executor": "Run",
-    "Python.L28.executor": "Run",
-    "Python.L330.executor": "Run",
-    "Python.L406.executor": "Run",
-    "Python.L452.executor": "Run",
-    "Python.L546.executor": "Run",
-    "Python.L664.executor": "Run",
-    "Python.L860.executor": "Run",
-    "Python.L870.executor": "Run",
-    "Python.L918.executor": "Run",
-    "Python.L935.executor": "Run",
-    "Python.LCR166.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.completion",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.L1048.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L1144.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L1247.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L1262.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L135.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L139.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L1402.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L1775.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L2110.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L28.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L330.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L406.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L452.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L546.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L664.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L860.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L870.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L918.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L935.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LCR166.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.L1048">
+}</component>
+  <component name="RunManager" selected="Python.L2110">
     <configuration name="L1048" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Leetcode_Python" />
       <option name="ENV_FILES" value="" />
@@ -106,6 +110,29 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/L1775.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="L2110" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Leetcode_Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/L2110.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,36 +187,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LCR166" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Leetcode_Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LCR166.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.L2110" />
         <item itemvalue="Python.L1048" />
         <item itemvalue="Python.L935" />
         <item itemvalue="Python.L1775" />
         <item itemvalue="Python.L918" />
-        <item itemvalue="Python.LCR166" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +242,10 @@
       <workItem from="1716279279375" duration="6263000" />
       <workItem from="1716330033307" duration="9177000" />
       <workItem from="1716360363282" duration="2810000" />
-      <workItem from="1716418873242" duration="9447000" />
+      <workItem from="1716418873242" duration="19900000" />
+      <workItem from="1716537212403" duration="11000" />
+      <workItem from="1716537295240" duration="53000" />
+      <workItem from="1716708580896" duration="3818000" />
     </task>
     <task id="LOCAL-00001" summary="5.7">
       <option name="closed" value="true" />
@@ -376,7 +383,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716391551273</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="5.23">
+      <option name="closed" value="true" />
+      <created>1716452897810</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1716452897810</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -394,15 +409,17 @@
     <MESSAGE value="5.20" />
     <MESSAGE value="5.21" />
     <MESSAGE value="5.22" />
-    <option name="LAST_COMMIT_MESSAGE" value="5.22" />
+    <MESSAGE value="5.23" />
+    <option name="LAST_COMMIT_MESSAGE" value="5.23" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Leetcode_Python$L139.coverage" NAME="L139 Coverage Results" MODIFIED="1715615446169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode_Python$L2110.coverage" NAME="L2110 Coverage Results" MODIFIED="1716712340673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode_Python$L1247.coverage" NAME="L1247 Coverage Results" MODIFIED="1715929686746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode_Python$L918.coverage" NAME="L918 Coverage Results" MODIFIED="1716201612961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode_Python$L452.coverage" NAME="L452 Coverage Results" MODIFIED="1715091658130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode_Python$LCR166.coverage" NAME="LCR166 Coverage Results" MODIFIED="1716188176814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Leetcode_Python$L1048.coverage" NAME="L1048 Coverage Results" MODIFIED="1716452350170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode_Python$L1048.coverage" NAME="L1048 Coverage Results" MODIFIED="1716452857153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode_Python$L28.coverage" NAME="L28 Coverage Results" MODIFIED="1715006650505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode_Python$L406.coverage" NAME="L406 Coverage Results" MODIFIED="1715086846519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode_Python$L1144.coverage" NAME="L1144 Coverage Results" MODIFIED="1715826618334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
